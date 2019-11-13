@@ -1,4 +1,4 @@
-# Blazor FIRE Calculators
+# BlazorFirePWA
 These FIRE calculators were created by [Bradley Wells](https://wellsb.com/) using Blazor, a .NET technology that allows you to build dynamic web applications using C# instead of JavaScript.
 
 ## Is there a demo?
